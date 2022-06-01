@@ -20,9 +20,8 @@ email_user="" #enter sender email
 password="" #enter your password (if you have 2FA on read this https://support.google.com/accounts/answer/185833?hl=en)
 subject="" #enter email subject
 
-#download your progress report in csv format 
-#in the blanks enter the name of your progress csv file then you're all set to run the script
-with open('', 'r') as csvfile:
+#download your progress report in csv format and save it inside the script folder named data.csv
+with open('data.csv', 'r') as csvfile:
     reader = csv.reader(csvfile)
 
     for line in reader:
