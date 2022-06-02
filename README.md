@@ -1,3 +1,5 @@
+![Sandesh](https://user-images.githubusercontent.com/77227201/171690740-452e3b46-307f-4994-9966-2a74d8f5bfa7.jpg)
+
 # Sandesh
 
 > Send Personalized HTML Rich Emails using data from CSV file. 
