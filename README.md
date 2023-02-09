@@ -16,7 +16,7 @@
 - Download or Clone the repo and then move into the project directory.
   ```shell
   git clone https://github.com/wasimreja/sandesh.git
-  cd sandesh.git
+  cd sandesh
   ```
 
 - Install all dependencies:
